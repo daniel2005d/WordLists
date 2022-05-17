@@ -155,6 +155,7 @@ aviles
 avilez
 awad
 ayala
+ayola
 azc
 azevedo
 babanca
@@ -1119,6 +1120,7 @@ ordonez
 ordoñez
 orduna
 orduz
+orduãa
 orejarena
 orellano
 orjuela
@@ -1203,6 +1205,7 @@ perlaza
 perozo
 pessano
 petrova
+peãa
 peña
 peñaranda
 peñuela
@@ -1316,6 +1319,7 @@ revollo
 revueltas
 rey
 reyes
+riachi
 riano
 riapira
 riascos
@@ -1608,6 +1612,7 @@ viancha
 victoria
 vidales
 vides
+vigoya
 villa
 villabon
 villada
