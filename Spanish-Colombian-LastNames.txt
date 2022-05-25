@@ -3,6 +3,7 @@ a
 abadia
 abella
 abello
+abreu
 abril
 abuchar
 academia
@@ -98,12 +99,14 @@ aranda
 arandi
 arango
 araque
+ararat
 araujo
 arbelae
 arbelaez
 arbeláez
 arboleda
 arce
+archila
 arcila
 arciniegas
 arcon
@@ -155,11 +158,13 @@ aviles
 avilez
 awad
 ayala
+aycardi
 ayola
 azc
 azevedo
 babanca
 babativa
+backer
 baena
 baez
 bagarozza
@@ -200,6 +205,7 @@ belalcazar
 beleno
 beleño
 bello
+bellotto
 beltran
 benavides
 benavidez
@@ -251,6 +257,7 @@ brand
 bravo
 breindembache
 briceno
+briceão
 briceño
 brieva
 brijaldo
@@ -376,6 +383,7 @@ catalina
 catano
 causil
 caviedes
+caãon
 cañas
 cañavera
 cañaveral
@@ -393,6 +401,7 @@ celis
 celorio
 cendales
 cepeda
+cerda
 ceron
 cerra
 cervantes
@@ -417,6 +426,7 @@ chaves
 chavez
 chica
 chico
+chirva
 chivata
 chocce
 choconta
@@ -500,6 +510,7 @@ de
 deantonio
 del
 delatorre
+delfino
 delgado
 deossa
 devis
@@ -512,6 +523,7 @@ dimian
 dios
 doman
 dominguez
+donado
 dopaso
 dorlean
 drada
@@ -562,6 +574,7 @@ esquibel
 estaba
 estacio
 esteban
+estepa
 estrada
 estrella
 estupinan
@@ -592,6 +605,7 @@ fino
 firaya
 fisgativa
 flautero
+flechas
 flor
 flores
 florez
@@ -693,6 +707,7 @@ guacaneme
 guacheta
 gualdrón
 gualteros
+guaman
 guapacha
 guarin
 guarnizo
@@ -714,6 +729,7 @@ guzmán
 gómez
 h
 hakas
+han
 hard
 hartmann
 hebenstreit
@@ -762,6 +778,7 @@ ingenieria
 insignares
 insuasti
 isaza
+issa
 ive
 ivrea
 izquierdo
@@ -915,6 +932,7 @@ mamian
 manager
 mancera
 manchola
+mancini
 manco
 manjarres
 manosalva
@@ -1177,6 +1195,7 @@ parrado
 pastran
 patarroyo
 patino
+patião
 patiño
 patricia
 pava
@@ -1267,12 +1286,15 @@ pussetto
 páez
 páramos
 pérez
+quecan
 quesada
 quetama
+quevedo
 quiceno
 quigua
 quimbayo
 quinayas
+quinche
 quinchia
 quinchía
 quintana
@@ -1367,6 +1389,7 @@ rondon
 rosa
 rosales
 rosero
+rossatto
 rozo
 rua
 ruales
@@ -1431,6 +1454,7 @@ sarria
 sasa
 saturno
 sau
+scarpetta
 schumacher
 segura
 seguro
@@ -1483,6 +1507,7 @@ suarez
 suaza
 sucerquia
 sucesion
+suesca
 suescun
 supertiendas
 susatama
@@ -1549,6 +1574,7 @@ turriago
 tusaji
 tusarma
 ultengo
+umaãa
 umba
 uparela
 upegui
@@ -1566,6 +1592,7 @@ urueta
 uscategui
 useda
 usuga
+vacca
 vahos
 valbuena
 valdenebro
@@ -1601,6 +1628,7 @@ velez
 velilla
 veloza
 velásquez
+vento
 vera
 verano
 verchil
@@ -1660,6 +1688,7 @@ yorman
 yucuma
 yuliana
 zabala
+zabarain
 zambrano
 zamora
 zamorano
