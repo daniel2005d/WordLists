@@ -126,6 +126,7 @@ arismendi
 arismendy
 aristizabal
 ariza
+arizabaleta
 armando
 armero
 arnaudo
@@ -194,6 +195,7 @@ barrientos
 barrios
 barros
 bastidas
+basto
 bautista
 bayona
 becerra
@@ -294,8 +296,10 @@ cadavid
 cadena
 cahuana
 caicedo
+caiman
 caita
 cajiao
+cala
 calao
 caldas
 calderon
@@ -368,6 +372,7 @@ cast
 castaneda
 castano
 castaãeda
+castaão
 castañeda
 castaño
 castelblanco
@@ -453,6 +458,7 @@ conmigo
 consuegra
 conti
 contreras
+copabán
 copete
 corchuelo
 cordero
@@ -482,6 +488,7 @@ cuadros
 cuartas
 cubides
 cubillos
+cuca
 cucanchon
 cucunuba
 cucuñame
@@ -508,6 +515,7 @@ dayanne
 daza
 de
 deantonio
+deaza
 del
 delatorre
 delfino
@@ -601,6 +609,7 @@ ferrer
 ferro
 figueredo
 figueroa
+filauri
 fino
 firaya
 fisgativa
@@ -615,6 +624,7 @@ fonnegra
 fonseca
 fontal
 fontalvo
+fontan
 forero
 forigua
 foronda
@@ -749,6 +759,7 @@ hidalgo
 higuera
 higuita
 hincapie
+hinestroza
 hinojosa
 holguin
 horta
@@ -760,6 +771,7 @@ huelgos
 huertas
 hueso
 hurtado
+ibague
 ibanez
 ibarguen
 ibarra
@@ -933,6 +945,7 @@ manager
 mancera
 manchola
 mancini
+mancipe
 manco
 manjarres
 manosalva
@@ -1017,6 +1030,7 @@ molano
 molina
 molinares
 moncada
+moncayo
 mondragon
 mone
 mongua
@@ -1028,6 +1042,7 @@ montalvo
 montana
 montanez
 montani
+montaãez
 montaña
 montañez
 montaño
@@ -1068,6 +1083,7 @@ murcia
 murgas
 muriel
 murillo
+muãoz
 muñetones
 muñoz
 na
@@ -1187,6 +1203,7 @@ pantoja
 paola
 papa
 parada
+paramo
 pardo
 paredes
 pareja
@@ -1590,6 +1607,7 @@ urrutia
 uruena
 urueta
 uscategui
+uscátegui
 useda
 usuga
 vacca
@@ -1692,6 +1710,7 @@ zabarain
 zambrano
 zamora
 zamorano
+zamudio
 zaors
 zapata
 zapateiro
